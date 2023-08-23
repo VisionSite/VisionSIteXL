@@ -1,19 +1,19 @@
-# VisionSite
+# VisionSiteXL
 
-Welcome to VisionSite! Using a code editor, work through the code prompts in the index.html file to determine your *path moving forward*, complete with inspirational quotes, music, personal goals, and statements of thankfulness. Along the way, you'll learn a little about coding and computer science. 
+Welcome to VisionSiteXL! Using a code editor, work through the code prompts in the index.html file to determine your *path moving forward*, complete with inspirational quotes, music, personal goals, and statements of thankfulness. Along the way, you'll learn a little about coding and computer science. (2-3 hours)
 
-**VisionSite was designed by Pitt students Carter Keith, Domonique Swift, Janet Majekodunmi, and Makye Daniels.**     
+**VisionSite was designed by Pitt students Carter Keith, Domonique Swift, Janet Majekodunmi, and Makye Daniels, and Destin Capello-Perez**     
     
     
 ## Get started or return to edit and host your site on GitHub! 
 
-1. Go to the [Vision Site Template](https://github.com/VisionSite/VisionSite-template) repository in GitHub or go to your repository if you made one at a Homewood CEC event.
+1. Go to the [Vision SiteXL Template](https://github.com/VisionSite/VisionSiteXL-template) repository in GitHub or go to your repository if you made one at a Homewood CEC event.
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. Download and/or open a text editor like [atom.io](https://atom.io) or [notepad-plus-plus.org](notepad-plus-plus.org). 
+4. Download and/or open a text editor like [atom.io](https://atom.io) or [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB). 
 
 5. Use the text editor to open the index.html document from your project folder.  
 
